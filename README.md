@@ -29,6 +29,8 @@ Git • GitHub • VS Code
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
+- Full-Stack Development
+- Computer Networks
   
 ---
 
